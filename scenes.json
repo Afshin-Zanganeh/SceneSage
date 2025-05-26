@@ -1,0 +1,33 @@
+[
+  {
+    "summary": "A narrator dramatically introduces a story about a terrifying ordeal involving grave robbers from outer space, promising to reveal shocking facts and punish the guilty.",
+    "characters": [
+      "Narrator"
+    ],
+    "mood": "Mysterious, dramatic, suspenseful",
+    "cultural_refs": [
+      "Science Fiction",
+      "Grave Robbing",
+      "Outer Space"
+    ],
+    "start": "00:00:22,719",
+    "end": "00:01:24,435",
+    "transcript": "Greetings, my friend. We are\nall interested in the future, for that is where you and I\nare going to spend the\nrest of our lives. And remember my friend, future\nevents such as these will affect\nyou in the future. You are interested in the\nunknown, the mysterious, the unexplainable. That is why you are here.\nAnd now, for the first time, we are bringing to you the full story of what\nhappened on that fateful day. We are giving you all the evidence, based\nonly on the secret testimony of the miserable souls who survived this terrifying ordeal. The\nincidents, the places, my friend we cannot keep this a secret any longer.\nLet us punish the guilty, let us reward the innocent. My friend, can your heart stand the shocking facts\nabout grave robbers from outer space?"
+  },
+  {
+    "summary": "A somber scene depicts a small group gathered at sundown for the burial of an elderly man's beloved wife, emphasizing the shock and unexpectedness of death.",
+    "characters": [
+      "elderly man",
+      "beloved wife"
+    ],
+    "mood": "somber, mournful, reflective",
+    "cultural_refs": [
+      "funeral",
+      "grief",
+      "prayer"
+    ],
+    "start": "00:02:45,849",
+    "end": "00:03:18,475",
+    "transcript": "All of us on this earth, know that\nthere is a time to live, and that there is a time to die,\nyet death is always a shock to those left behind. It is even more of a shock, when death,\nthe proud brother, comes suddenly without warning. Just at sundown, a small group, gathered in silent prayer around\nthe newly-opened grave of the beloved wife of an elderly man.\nSundown of the day,"
+  }
+]
