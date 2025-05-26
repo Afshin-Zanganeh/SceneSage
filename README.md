@@ -61,6 +61,26 @@ OPENAI_API_KEY=your-openai-api-key-here
 GOOGLE_API_KEY=your-google-api-key-here
 ```
 
+## 🧪 Running Tests
+
+The project includes a test suite to ensure reliability and correctness. To run the tests:
+
+```bash
+# Run all tests with verbose output
+python -m pytest test_scenesage.py -v
+```
+
+### Test Coverage
+
+The test suite covers:
+
+- Scene detection with various pause durations
+- Single subtitle handling
+- Empty subtitle file handling
+- Overlapping subtitle handling
+- Long pause handling
+- Time formatting edge cases
+
 ## 💻 Usage
 
 ### Command Line Interface
